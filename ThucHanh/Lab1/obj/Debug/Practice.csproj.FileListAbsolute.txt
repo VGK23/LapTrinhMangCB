@@ -1,0 +1,16 @@
+C:\Users\MSIs\Documents\Hoc_Tap\LTM\ThucHanh\Practice\bin\Debug\Practice.exe.config
+C:\Users\MSIs\Documents\Hoc_Tap\LTM\ThucHanh\Practice\bin\Debug\Practice.exe
+C:\Users\MSIs\Documents\Hoc_Tap\LTM\ThucHanh\Practice\bin\Debug\Practice.pdb
+C:\Users\MSIs\Documents\Hoc_Tap\LTM\ThucHanh\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LTM\ThucHanh\Practice\obj\Debug\Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LTM\ThucHanh\Practice\obj\Debug\Practice.Lab1.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LTM\ThucHanh\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LTM\ThucHanh\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LTM\ThucHanh\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LTM\ThucHanh\Practice\obj\Debug\Practice.exe
+C:\Users\MSIs\Documents\Hoc_Tap\LTM\ThucHanh\Practice\obj\Debug\Practice.pdb
+C:\Users\MSIs\Documents\Hoc_Tap\LTM\ThucHanh\Practice\obj\Debug\Practice.Lab1B1.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LTM\ThucHanh\Practice\obj\Debug\Practice.Lab1B2.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LTM\ThucHanh\Practice\obj\Debug\Practice.Lab1B3.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LTM\ThucHanh\Practice\obj\Debug\Practice.Lab1B4.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LTM\ThucHanh\Practice\obj\Debug\Practice.Lab1B5.resources
