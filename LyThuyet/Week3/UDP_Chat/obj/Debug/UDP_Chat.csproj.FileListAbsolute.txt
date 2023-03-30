@@ -1,0 +1,12 @@
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Chat\obj\Debug\UDP_Chat.csproj.AssemblyReference.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Chat\obj\Debug\UDP_Chat.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Chat\obj\Debug\UDP_Chat.Form1.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Chat\obj\Debug\UDP_Chat.Properties.Resources.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Chat\obj\Debug\UDP_Chat.csproj.GenerateResource.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Chat\obj\Debug\UDP_Chat.csproj.CoreCompileInputs.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Chat\bin\Debug\UDP_Chat.exe.config
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Chat\bin\Debug\UDP_Chat.exe
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Chat\bin\Debug\UDP_Chat.pdb
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Chat\obj\Debug\UDP_Chat.Form2.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Chat\obj\Debug\UDP_Chat.exe
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Chat\obj\Debug\UDP_Chat.pdb
