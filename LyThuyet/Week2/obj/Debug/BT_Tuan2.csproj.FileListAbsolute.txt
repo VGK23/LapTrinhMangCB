@@ -20,3 +20,14 @@ C:\Users\MSIs\Documents\Hoc_Tap\LTM\MS_VS\BT_Tuan2\obj\Debug\BT_Tuan2.csproj.Gen
 C:\Users\MSIs\Documents\Hoc_Tap\LTM\MS_VS\BT_Tuan2\obj\Debug\BT_Tuan2.csproj.CoreCompileInputs.cache
 C:\Users\MSIs\Documents\Hoc_Tap\LTM\MS_VS\BT_Tuan2\obj\Debug\BT_Tuan2.exe
 C:\Users\MSIs\Documents\Hoc_Tap\LTM\MS_VS\BT_Tuan2\obj\Debug\BT_Tuan2.pdb
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week2\bin\Debug\BT_Tuan2.exe.config
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week2\bin\Debug\BT_Tuan2.exe
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week2\bin\Debug\BT_Tuan2.pdb
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week2\obj\Debug\BT_Tuan2.csproj.AssemblyReference.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week2\obj\Debug\BT_Tuan2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week2\obj\Debug\BT_Tuan2.Form1.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week2\obj\Debug\BT_Tuan2.Properties.Resources.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week2\obj\Debug\BT_Tuan2.csproj.GenerateResource.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week2\obj\Debug\BT_Tuan2.csproj.CoreCompileInputs.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week2\obj\Debug\BT_Tuan2.exe
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week2\obj\Debug\BT_Tuan2.pdb

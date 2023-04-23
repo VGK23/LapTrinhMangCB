@@ -177,16 +177,19 @@ namespace BT_Tuan2
         private void Del_Table_Click(object sender, EventArgs e)
         {
             if (SqlObj == null) MessageBox.Show("The connection wasn't created!!");
-            if (SqlObj.State == ConnectionState.Closed) MessageBox.Show("The connection is closing!!");
-            try
+            else if (SqlObj.State == ConnectionState.Closed) MessageBox.Show("The connection is closing!!");
+            else
             {
-                SqlCommand cmd = new SqlCommand("drop table Student", SqlObj);
-                MessageBox.Show("Delete table successfully!");
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Error!" + ex);
-            }
+                try
+                {
+                    SqlCommand cmd = new SqlCommand("drop table Student", SqlObj);
+                    MessageBox.Show("Delete table successfully!");
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Error!" + ex);
+                }
+            }    
             SqlObj.Close();
         }
 

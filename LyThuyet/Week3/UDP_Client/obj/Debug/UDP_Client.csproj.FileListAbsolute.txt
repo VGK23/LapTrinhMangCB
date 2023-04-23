@@ -1,0 +1,11 @@
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Client\bin\Debug\UDP_Client.exe.config
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Client\bin\Debug\UDP_Client.exe
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Client\bin\Debug\UDP_Client.pdb
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Client\obj\Debug\UDP_Client.csproj.AssemblyReference.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Client\obj\Debug\UDP_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Client\obj\Debug\UDP_Client.Form1.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Client\obj\Debug\UDP_Client.Properties.Resources.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Client\obj\Debug\UDP_Client.csproj.GenerateResource.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Client\obj\Debug\UDP_Client.csproj.CoreCompileInputs.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Client\obj\Debug\UDP_Client.exe
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Week3\UDP_Client\obj\Debug\UDP_Client.pdb
