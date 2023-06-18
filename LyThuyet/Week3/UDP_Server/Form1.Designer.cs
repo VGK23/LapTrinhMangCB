@@ -28,34 +28,48 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.txtServerShow = new System.Windows.Forms.TextBox();
+            this.rtbShow = new System.Windows.Forms.RichTextBox();
+            this.btnStart = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // txtServerShow
+            // rtbShow
             // 
-            this.txtServerShow.Location = new System.Drawing.Point(12, 12);
-            this.txtServerShow.Multiline = true;
-            this.txtServerShow.Name = "txtServerShow";
-            this.txtServerShow.ReadOnly = true;
-            this.txtServerShow.Size = new System.Drawing.Size(509, 319);
-            this.txtServerShow.TabIndex = 4;
+            this.rtbShow.Location = new System.Drawing.Point(12, 67);
+            this.rtbShow.Name = "rtbShow";
+            this.rtbShow.ReadOnly = true;
+            this.rtbShow.Size = new System.Drawing.Size(331, 215);
+            this.rtbShow.TabIndex = 0;
+            this.rtbShow.Text = "";
+            // 
+            // btnStart
+            // 
+            this.btnStart.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnStart.Location = new System.Drawing.Point(12, 12);
+            this.btnStart.Name = "btnStart";
+            this.btnStart.Size = new System.Drawing.Size(331, 49);
+            this.btnStart.TabIndex = 2;
+            this.btnStart.Text = "Start";
+            this.btnStart.UseVisualStyleBackColor = true;
+            this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(532, 338);
-            this.Controls.Add(this.txtServerShow);
+            this.ClientSize = new System.Drawing.Size(355, 294);
+            this.Controls.Add(this.btnStart);
+            this.Controls.Add(this.rtbShow);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Server";
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.TextBox txtServerShow;
+        private System.Windows.Forms.RichTextBox rtbShow;
+        private System.Windows.Forms.Button btnStart;
     }
 }
 

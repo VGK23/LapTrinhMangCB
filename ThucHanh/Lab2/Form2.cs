@@ -45,6 +45,7 @@ namespace Lab2
             try
             {
                 SaveFileDialog sfd = new SaveFileDialog();
+                sfd.Filter = "Text Files|*.txt";
                 sfd.ShowDialog();
                 FileStream fs = new FileStream(sfd.FileName, FileMode.Create);
                 StreamWriter sw = new StreamWriter(fs);

@@ -20,31 +20,35 @@ namespace UDP_Server
             InitializeComponent();
         }
 
-        public void SV_Thread()
+        private void btnStart_Click(object sender, EventArgs e)
         {
             try
             {
                 UdpClient listen = new UdpClient(8080);
+                IPEndPoint groupIPe = new IPEndPoint(IPAddress.Any, 8080);
+                rtbShow.Text += "Server is starting on port 8080...\n";
                 byte[] rec_byte;
-                while (true)
+                Thread recThread = new Thread(() =>
                 {
-                    IPEndPoint groupIPe = new IPEndPoint(IPAddress.Any,0);
-                    rec_byte = listen.Receive(ref groupIPe);
-                    string rec_data = Encoding.ASCII.GetString(rec_byte);
-                    txtServerShow.Text = groupIPe.Address.ToString() + ":" + rec_data + "\n";
-                }
+                    while (true)
+                    {
+                        rec_byte = listen.Receive(ref groupIPe);
+                        string mes = Encoding.ASCII.GetString(rec_byte);
+                        this.Invoke((MethodInvoker)delegate
+                        {
+                            rtbShow.Text += groupIPe.Address.ToString() + ":" + mes + "\n";
+                        });
+                        byte[] send_byte = Encoding.ASCII.GetBytes("Message received!");
+                        listen.Send(send_byte, send_byte.Length, groupIPe);
+                        while (listen.Available > 0) { }
+                    }
+                });
+                recThread.Start();
             }
-            catch
+            catch (SocketException ex)
             {
-                MessageBox.Show("Can't connect to client!");
+                MessageBox.Show("An error occurred while listening for incoming messages: " + ex.Message);
             }
-        }
-
-        private void Form2_Load(object sender, EventArgs e)
-        {
-            CheckForIllegalCrossThreadCalls = false;
-            Thread udpSerThread = new Thread(new ThreadStart(SV_Thread));
-            udpSerThread.Start();
         }
     }
 }

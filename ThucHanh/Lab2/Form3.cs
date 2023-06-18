@@ -39,8 +39,8 @@ namespace Lab2
 
             //đường dẫn url
             txtUrl.Text = fs.Name.ToString();
-            //số dòng
 
+            //số dòng
             if (fi.Length == 0) txtLines.Text = "0"; //fi.Length==0 -> kiểm tra có dữ liệu bên trong hay không
             else
             {
@@ -53,6 +53,7 @@ namespace Lab2
                 txtLines.Text = CountL.ToString();
             }
             fs.Close();
+
             //số từ
             FileStream fsCountW = new FileStream(ofd.FileName, FileMode.OpenOrCreate); //Hàm ReadToEnd() ở trên đã đưa con trỏ tới cuối file -> khởi tạo lại để đưa con trỏ về vị trí đầu file
             StreamReader srCountW = new StreamReader(fsCountW);
@@ -69,6 +70,7 @@ namespace Lab2
                 txtWord.Text = countW.ToString();
             }
             fsCountW.Close();
+
             //số ký tự
             FileStream fsCountCh = new FileStream(ofd.FileName, FileMode.OpenOrCreate); //Hàm ReadToEnd() ở trên đã đưa con trỏ tới cuối file -> khởi tạo lại để đưa con trỏ về vị trí đầu file
             StreamReader srCountCh = new StreamReader(fsCountCh);

@@ -1,0 +1,16 @@
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\ThucHanh\lab4_bai3\bai3\bin\Debug\bai3.exe.config
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\ThucHanh\lab4_bai3\bai3\bin\Debug\bai3.exe
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\ThucHanh\lab4_bai3\bai3\bin\Debug\bai3.pdb
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\ThucHanh\lab4_bai3\bai3\obj\Debug\bai3.csproj.AssemblyReference.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\ThucHanh\lab4_bai3\bai3\obj\Debug\bai3.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\ThucHanh\lab4_bai3\bai3\obj\Debug\bai3.Form1.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\ThucHanh\lab4_bai3\bai3\obj\Debug\bai3.Properties.Resources.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\ThucHanh\lab4_bai3\bai3\obj\Debug\bai3.csproj.GenerateResource.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\ThucHanh\lab4_bai3\bai3\obj\Debug\bai3.csproj.CoreCompileInputs.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\ThucHanh\lab4_bai3\bai3\obj\Debug\bai3.exe
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\ThucHanh\lab4_bai3\bai3\obj\Debug\bai3.pdb
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\ThucHanh\lab4_bai3\bai3\bin\Debug\HtmlAgilityPack.dll
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\ThucHanh\lab4_bai3\bai3\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\ThucHanh\lab4_bai3\bai3\bin\Debug\HtmlAgilityPack.xml
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\ThucHanh\lab4_bai3\bai3\obj\Debug\bai3.csproj.CopyComplete
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\ThucHanh\lab4_bai3\bai3\obj\Debug\bai3.Form2.resources
